@@ -366,8 +366,8 @@ margin-top: -70px;
         .facts-content{
         display: grid;
 grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
-        margin: 40px;
+        gap: 20px;
+        margin: 90px;
         }
         .facts-icon{
         border: 3px solid #ff8f0e39;
